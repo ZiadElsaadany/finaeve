@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "365259488800",
+    "project_id": "evealbum-b74e0",
+    "storage_bucket": "evealbum-b74e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365259488800:android:986517e6ea8835b4ca8645",
+        "android_client_info": {
+          "package_name": "com.eve.evephotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365259488800-uqe0gmuqi8lhabitu7v8puq8ssllc54j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeheMbq-1E9fMKvRGD6afl4eNrSw50Mw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365259488800-uqe0gmuqi8lhabitu7v8puq8ssllc54j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365259488800-55jla1ggr30btvjulk1qugpm1gqn3m1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
